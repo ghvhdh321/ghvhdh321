@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=000000&fontColor=ffffff&height=200&fontSize=50&section=header)
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=Rect&text=Welcome!&color=6E6E6E&fontColor=ffffff&height=150&fontSize=65&section=header)
 <div align="center">
   <h3>📚 Stack </h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
