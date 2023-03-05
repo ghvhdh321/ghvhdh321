@@ -1,26 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=000000&fontColor=ffffff&height=200&fontSize=50&section=header />
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=000000&fontColor=ffffff&height=200&fontSize=50&section=header)
 
+<br>
+<div align="center">
   <h3>📚 Stack </h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
   
-
-
-<!-- type=헤더종류&color=도형색&height=도형크기&section=header&text=표시할글자들&fontColor=폰트색&fontSize=폰트크기&animation=애니메이션효과종류&fontAlignY=글씨상하정렬) -->
-<!--
-**ghvhdh321/ghvhdh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
